@@ -1,11 +1,11 @@
 ##Modell
--Convolutional Neural Network (CNN) for bildeklassifisering 
+Convolutional Neural Network (CNN) for bildeklassifisering 
 
 ##Språk
--Python 
+Python 
 
 ##Beskrivelse
--KI-basert kode utviklet som del av en master­nivå-eksamen innen kunstig intelligens
+KI-basert kode utviklet som del av en master­nivå-eksamen innen kunstig intelligens
 for klassifisering av medisinske bilder og deteksjon av kreft (karakter A).
 
 ##Merknad 
