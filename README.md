@@ -8,5 +8,9 @@ Python
 KI-basert kode utviklet som del av en master­nivå eksamen innen kunstig intelligens
 for klassifisering av medisinske bilder og deteksjon av kreft (karakter A).
 
+##Resultat: 
+AUC 0.84
+
 ##Merknad: 
 Prosjektet er kun utviklet for akademiske formål og er ikke ment for medisinsk bruk.
+
